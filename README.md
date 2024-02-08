@@ -1,2 +1,2 @@
-# SQLMLExamples
- SQL ML Services example
+# SQL ML Examples
+ SQL ML Services examples
